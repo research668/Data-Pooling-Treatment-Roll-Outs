@@ -34,3 +34,8 @@ The notebook provides a detailed walkthrough on how to use the dataset to valida
 # MS paper replication
 This folder contains two files: a PDF report detailing the replication results for each Management Science paper, and a file explaining how to access the corresponding data and code.
 
+# Meta-Analysis for DPTR
+We conducted a meta-analysis to provide a credible and impartial evaluation of \our{} across a broader range of applications. To reduce the risk of selecting datasets that favor the method, we draw on replication data accompanying *Management Science* papers and transparently document how datasets are identified, selected, and evaluated. The analysis comprises 27 exercises: 25 empirical datasets and two numerical illustrations.
+
+All detailed documentation, data, and code are available via [this Google Drive link](https://drive.google.com/file/d/10l-X7Or0cKqFXELH6e5w8vqa86KbUhsK/view?usp=sharing).
+
